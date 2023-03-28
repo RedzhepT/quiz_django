@@ -1,0 +1,1 @@
+Yeni Başlayanlar İçin Django 3 :01: Çalışma Ortamı, PATH - ENV videosunun 20:57nci bölümündeki template dosyası oluşturulmadı. Videoda dosyayı kök dizinin içerisine yerleştiriyor.
